@@ -6,8 +6,4 @@ Hi I'm Brendon Chung. I am the founder of [Blendo Games](https://blendogames.com
 - It also has various tools/utilites I've written for game development.
 
 ## Links
-- [Site](https://blendogames.com)
-- [Steam](https://store.steampowered.com/developer/blendogames)
-- [Bluesky](https://bsky.app/profile/blendogames.bsky.social)
-- [Discord](https://discord.gg/blendogames)
-- [Email](mailto:brendon@blendogames.com)
+[Site](https://blendogames.com) | [Steam](https://store.steampowered.com/developer/blendogames) | [Bluesky](https://bsky.app/profile/blendogames.bsky.social) | [Discord](https://discord.gg/blendogames) | [Email](mailto:brendon@blendogames.com)
