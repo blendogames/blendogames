@@ -1,7 +1,6 @@
 ## Hi 👋
 Hi I'm Brendon Chung. I am the founder of [Blendo Games](https://blendogames.com) and I do art, design, and programming.
 
-## What's this github?
 - This github has source code for some of my games & tools/utilities.
 - [CLICK HERE](https://github.com/blendogames?tab=repositories) to see my repositories.
 
